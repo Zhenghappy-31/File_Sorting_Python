@@ -1,6 +1,6 @@
 import os, shutil
 
-path = "D:\\Python\\5\\Sorting\\"
+path = "D:\\Sorting\\"
 file_name = os.listdir(path)
 folder_name = ["xlsx_files","image_files","pdf_files"]
 
